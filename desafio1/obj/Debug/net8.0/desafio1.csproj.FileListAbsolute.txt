@@ -1,0 +1,14 @@
+/Users/serep/Code/CsharpProjects/rocketseat/desafio1-csharp/desafio1/desafio1/bin/Debug/net8.0/desafio1
+/Users/serep/Code/CsharpProjects/rocketseat/desafio1-csharp/desafio1/desafio1/bin/Debug/net8.0/desafio1.deps.json
+/Users/serep/Code/CsharpProjects/rocketseat/desafio1-csharp/desafio1/desafio1/bin/Debug/net8.0/desafio1.runtimeconfig.json
+/Users/serep/Code/CsharpProjects/rocketseat/desafio1-csharp/desafio1/desafio1/bin/Debug/net8.0/desafio1.dll
+/Users/serep/Code/CsharpProjects/rocketseat/desafio1-csharp/desafio1/desafio1/bin/Debug/net8.0/desafio1.pdb
+/Users/serep/Code/CsharpProjects/rocketseat/desafio1-csharp/desafio1/desafio1/obj/Debug/net8.0/desafio1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serep/Code/CsharpProjects/rocketseat/desafio1-csharp/desafio1/desafio1/obj/Debug/net8.0/desafio1.AssemblyInfoInputs.cache
+/Users/serep/Code/CsharpProjects/rocketseat/desafio1-csharp/desafio1/desafio1/obj/Debug/net8.0/desafio1.AssemblyInfo.cs
+/Users/serep/Code/CsharpProjects/rocketseat/desafio1-csharp/desafio1/desafio1/obj/Debug/net8.0/desafio1.csproj.CoreCompileInputs.cache
+/Users/serep/Code/CsharpProjects/rocketseat/desafio1-csharp/desafio1/desafio1/obj/Debug/net8.0/desafio1.dll
+/Users/serep/Code/CsharpProjects/rocketseat/desafio1-csharp/desafio1/desafio1/obj/Debug/net8.0/refint/desafio1.dll
+/Users/serep/Code/CsharpProjects/rocketseat/desafio1-csharp/desafio1/desafio1/obj/Debug/net8.0/desafio1.pdb
+/Users/serep/Code/CsharpProjects/rocketseat/desafio1-csharp/desafio1/desafio1/obj/Debug/net8.0/desafio1.genruntimeconfig.cache
+/Users/serep/Code/CsharpProjects/rocketseat/desafio1-csharp/desafio1/desafio1/obj/Debug/net8.0/ref/desafio1.dll
